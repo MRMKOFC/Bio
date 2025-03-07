@@ -30,7 +30,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=1ed760&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=22jg2nzzjqglq2mzjqznopmba&redirect=true)
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/WSTxda)
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white) [![Last.fm](https://img.shields.io/badge/last.fm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/user/WSTxda)
 
 <details>
   <summary>Languages & Database</summary>
@@ -76,7 +76,7 @@
 
 
 
-[![Samsung](https://img.shields.io/badge/Samsung%20Tab_J7_-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/)
+[![Samsung](https://img.shields.io/badge/Samsung%20_J7_-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)](https://www.samsung.com/)
 
 </details>
 
